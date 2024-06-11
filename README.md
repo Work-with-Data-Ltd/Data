@@ -1,4 +1,7 @@
 # data
-Explore our data
 
-https://www.workwithdata.com/data
+Explore our data covering 18 million entities & 0.2 billion data points.
+Purely based on open sources, merged into one large knowledge graph: https://www.workwithdata.com/data
+
+For specific detailed entities:
+- 
